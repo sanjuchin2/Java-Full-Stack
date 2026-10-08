@@ -1,0 +1,89 @@
+Javascript :
+------------
+->Javascript is scripting language as well as programming language.
+->js is dynamically typed programming.
+->ja having single call stack.
+
+
+
+
+Uses :
+->using js we can build dynamic web applications.
+->using js we can add funtionalities to web pages.
+->here we can achieve DOM(documnet object model) funtionalities using that can manipulaate HTML and CSS.
+->we can fetch data from server(API's) and also send data to server(API's).
+
+
+mocha -> 1995 -> net scope (browser company).
+|
+live scripting.
+|
+Javascript.
+|
+ECMA -> added new feature -> release 1st version ->ES1(ECMA script version1).
+
+stable version ->ES6
+
+present version ->ES16
+
+implements  :
+-------------
+
+1.Inline js
+2.Internal js
+3.External js
+
+
+
+
+
+-write an term 50 browser names and there respective Javascript names?
+
+
+
+Tokens :
+--------
+-> tokens are the smallset units in js code.
+
+
+Types:
+1.Identifiers.
+-> Identifiers are the nmaes given to the code.
+-> in the place Identifiers we cant use keywords.
+-> Ex: variable name ,class name , function name (method names).
+
+2.Key words.
+-> keywords are the predefined words which hav eits own meaning.
+-> in js total 66 keywords.
+-> Ex:
+
+3.Literals.
+
+4.Operaters.
+
+5.Seperators.
+-> ., ," ",'',``,;,:,{}
+
+6.Comments.
+->1.Single line Comments.//
+->2.Multi line comments./*
+
+
+
+
+Datatypes:
+----------
+-> Datatypes represents the what of data we are storing on that variable.
+Types:
+1. Primitive Datatype
+   i. number
+   ii.storing
+   iii.Boolean
+   iv.Null
+   v. undefined
+   vi.symbol
+   vii.bigint
+
+2. non Primitive Datatypes
+    i.Arrays
+    -> Arrays

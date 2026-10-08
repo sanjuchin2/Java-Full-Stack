@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: desco 2s linear 2s infinite normal;
+}
+@keyframes desco {
+    0%{
+        background-color: antiquewhite;
+    }15%{
+        background-color: hotpink;
+    }30%{
+        background-color: antiquewhite;
+    }45%{
+        background-color: red;
+    }60%{
+        background-color: brown;
+    }
+    
+}

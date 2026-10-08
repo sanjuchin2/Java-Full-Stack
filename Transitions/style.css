@@ -1,0 +1,16 @@
+div{
+    height:200px;
+    width: 200px;
+    background-color: beige;
+    transition-property: all;
+    transition-duration: 3s;
+    transition-timing-function: ease-out;
+    transition-delay: 2s;
+}
+div:hover{
+    background-color: rgb(7, 12, 12);
+    font-size: 200px;
+}
+div:active{
+    background-color: rgb(4, 63, 65);
+}
